@@ -1,0 +1,1065 @@
+{
+  "region": [
+    {
+      "id": "0",
+      "name": "Lefkoşa",
+      "oldName": "Lefkosía",
+      "bucaklar": [
+        {
+          "id": "0",
+          "name": "Lefkoşa",
+          "oldName": "Lefkosía",
+          "yerlesimler": [
+            {
+              "id": "0",
+              "name": "Akıncılar",
+              "oldName": "Louroukina"
+            },
+            {
+              "id": "1",
+              "name": "Alayköy",
+              "oldName": "Gerolakkos"
+            },
+            {
+              "id": "2",
+              "name": "Dilekkaya",
+              "oldName": "Agia"
+            },
+            {
+              "id": "3",
+              "name": "Erdemli",
+              "oldName": "Tremetousia"
+            },
+            {
+              "id": "4",
+              "name": "Gaziler",
+              "oldName": "Pyrogi"
+            },
+            {
+              "id": "5",
+              "name": "Gönyeli",
+              "oldName": "Kioneli"
+            },
+            {
+              "id": "6",
+              "name": "Gürpınar",
+              "oldName": "Agia Marina Xyliatou"
+            },
+            {
+              "id": "7",
+              "name": "Hamitköy",
+              "oldName": "Mandres"
+            },
+            {
+              "id": "8",
+              "name": "Haspolat",
+              "oldName": "Mia Milia"
+            },
+            {
+              "id": "9",
+              "name": "İkidere",
+              "oldName": "Dyo Potamoi"
+            },
+            {
+              "id": "10",
+              "name": "Kanlıköy",
+              "oldName": "Kanli"
+            },
+            {
+              "id": "11",
+              "name": "Kırklar",
+              "oldName": "Tymvou"
+            },
+            {
+              "id": "12",
+              "name": "Kırıkkale",
+              "oldName": "Melouseia"
+            },
+            {
+              "id": "13",
+              "name": "Lefkoşa",
+              "oldName": "Lefkosía"
+            },
+            {
+              "id": "14",
+              "name": "Türkeli",
+              "oldName": "Agios Vasileios"
+            },
+            {
+              "id": "15",
+              "name": "Yılmazköy",
+              "oldName": "Skylloura"
+            },
+            {
+              "id": "16",
+              "name": "Yiğitler",
+              "oldName": "Arsos"
+            }
+          ]
+        },
+        {
+          "id": "1",
+          "name": "Değirmenlik",
+          "oldName": "Dimos Kythrea",
+          "yerlesimler": [
+            {
+              "id": "0",
+              "name": "Beyköy",
+              "oldName": "Beikioi"
+            },
+            {
+              "id": "1",
+              "name": "Balıkesir",
+              "oldName": "Palaikythro"
+            },
+            {
+              "id": "2",
+              "name": "Cihangir",
+              "oldName": "Epicho"
+            },
+            {
+              "id": "3",
+              "name": "Çukurova",
+              "oldName": "Kourou Monastiri"
+            },
+            {
+              "id": "4",
+              "name": "Değirmenlik",
+              "oldName": "Kythrea"
+            },
+            {
+              "id": "5",
+              "name": "Demirhan",
+              "oldName": "Trachoni"
+            },
+            {
+              "id": "6",
+              "name": "Düzova",
+              "oldName": "Exometochi"
+            },
+            {
+              "id": "7",
+              "name": "Gaziköy",
+              "oldName": "Afanteia"
+            },
+            {
+              "id": "8",
+              "name": "Gökhan",
+              "oldName": "Voni"
+            },
+            {
+              "id": "9",
+              "name": "Kalavaç",
+              "oldName": "Kalyvakia"
+            },
+            {
+              "id": "10",
+              "name": "Meriç",
+              "oldName": "Mora"
+            },
+            {
+              "id": "11",
+              "name": "Minareliköy",
+              "oldName": "Neo Chorio"
+            },
+            {
+              "id": "12",
+              "name": "Yeniceköy",
+              "oldName": "Petra tou Digeni"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Girne",
+      "oldName": "Keryneia",
+      "bucaklar": [
+        {
+          "id": "0",
+          "name": "Girne",
+          "oldName": "Keryneia",
+          "yerlesimler": [
+            {
+              "id": "0",
+              "name": "Ağırdağ",
+              "oldName": "Agirda"
+            },
+            {
+              "id": "1",
+              "name": "Alsancak",
+              "oldName": "Dimos Karava"
+            },
+            {
+              "id": "2",
+              "name": "Arapköy",
+              "oldName": "Klepini"
+            },
+            {
+              "id": "3",
+              "name": "Bahçeli",
+              "oldName": "Kalograia"
+            },
+            {
+              "id": "4",
+              "name": "Beşparmak",
+              "oldName": "Trapeza"
+            },
+            {
+              "id": "5",
+              "name": "Beylerbeyi",
+              "oldName": "Belapais"
+            },
+            {
+              "id": "6",
+              "name": "Boğazköy",
+              "oldName": "Boghaz"
+            },
+            {
+              "id": "7",
+              "name": "Çatalköy",
+              "oldName": "Agios Epiktitos"
+            },
+            {
+              "id": "8",
+              "name": "Dağyolu",
+              "oldName": "Fota"
+            },
+            {
+              "id": "9",
+              "name": "Aşağı Dikmen",
+              "oldName": "Kato Dikomo"
+            },
+            {
+              "id": "10",
+              "name": "Yukarı Dikmen",
+              "oldName": "Pano Dikomo"
+            },
+            {
+              "id": "11",
+              "name": "Esentepe",
+              "oldName": "Agios Amvrosios"
+            },
+            {
+              "id": "12",
+              "name": "Girne",
+              "oldName": "Keryneia"
+            },
+            {
+              "id": "13",
+              "name": "Göçeri",
+              "oldName": "Pileri"
+            },
+            {
+              "id": "14",
+              "name": "Güngör",
+              "oldName": "Koutsoventis"
+            },
+            {
+              "id": "15",
+              "name": "İlgaz",
+              "oldName": "Ftericha"
+            },
+            {
+              "id": "16",
+              "name": "Karaağaç",
+              "oldName": "Charkeia"
+            },
+            {
+              "id": "17",
+              "name": "Karaman",
+              "oldName": "Karmi"
+            },
+            {
+              "id": "18",
+              "name": "Kömürcü",
+              "oldName": "Kiomourtzou"
+            },
+            {
+              "id": "19",
+              "name": "Karşıyaka",
+              "oldName": "Vasileia"
+            },
+            {
+              "id": "20",
+              "name": "Lapta",
+              "oldName": "Dimos Lapithou"
+            },
+            {
+              "id": "21",
+              "name": "Malatya",
+              "oldName": "Palaiosofos"
+            },
+            {
+              "id": "22",
+              "name": "Ozanköy",
+              "oldName": "Kazafani"
+            },
+            {
+              "id": "23",
+              "name": "Pınarbaşı",
+              "oldName": "Krini"
+            },
+            {
+              "id": "24",
+              "name": "Aşağı Taşkent",
+              "oldName": "Sichari"
+            },
+            {
+              "id": "25",
+              "name": "Yukarı Taşkent",
+              "oldName": "Vouno"
+            },
+            {
+              "id": "26",
+              "name": "Yeşiltepe",
+              "oldName": "Elia"
+            }
+          ]
+        },
+        {
+          "id": "1",
+          "name": "Çamlıbel",
+          "oldName": "Myrtou",
+          "yerlesimler": [
+            {
+              "id": "0",
+              "name": "Akçiçek",
+              "oldName": "Sysklipos"
+            },
+            {
+              "id": "1",
+              "name": "Akdeniz",
+              "oldName": "Agia Eirini"
+            },
+            {
+              "id": "2",
+              "name": "Alemdağ",
+              "oldName": "Agridaki"
+            },
+            {
+              "id": "3",
+              "name": "Çamlıbel",
+              "oldName": "Myrtou"
+            },
+            {
+              "id": "4",
+              "name": "Geçitköy",
+              "oldName": "Panagra"
+            },
+            {
+              "id": "5",
+              "name": "Hisarköy",
+              "oldName": "Kampyli"
+            },
+            {
+              "id": "6",
+              "name": "Karpaşa",
+              "oldName": "Karpaseia"
+            },
+            {
+              "id": "7",
+              "name": "Kayalar",
+              "oldName": "Orga"
+            },
+            {
+              "id": "8",
+              "name": "Koruçam",
+              "oldName": "Kormakitis"
+            },
+            {
+              "id": "9",
+              "name": "Kozanköy",
+              "oldName": "Larnakas Lapithou"
+            },
+            {
+              "id": "10",
+              "name": "Kılıçarslan",
+              "oldName": "Kontemenos"
+            },
+            {
+              "id": "11",
+              "name": "Özhan",
+              "oldName": "Asomatos"
+            },
+            {
+              "id": "12",
+              "name": "Sadrazamköy",
+              "oldName": "Livera"
+            },
+            {
+              "id": "13",
+              "name": "Şirinevler",
+              "oldName": "Agios Ermolaos"
+            },
+            {
+              "id": "14",
+              "name": "Tepebaşı",
+              "oldName": "Diorios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Gazimağusa",
+      "oldName": "Ammohostos",
+      "bucaklar": [
+        {
+          "id": "0",
+          "name": "Gazimağusa",
+          "oldName": "Ammohostos",
+          "yerlesimler": [
+            {
+              "id": "0",
+              "name": "Akova",
+              "oldName": "Gypsou"
+            },
+            {
+              "id": "1",
+              "name": "Alaniçi",
+              "oldName": "Pigi"
+            },
+            {
+              "id": "2",
+              "name": "Aslanköy",
+              "oldName": "Angastina"
+            },
+            {
+              "id": "3",
+              "name": "Dörtyol",
+              "oldName": "Prastio"
+            },
+            {
+              "id": "4",
+              "name": "Gazimağusa",
+              "oldName": "Ammohostos"
+            },
+            {
+              "id": "5",
+              "name": "Güvercinlik",
+              "oldName": "Acheritou"
+            },
+            {
+              "id": "6",
+              "name": "Korkuteli",
+              "oldName": "Gaidouras"
+            },
+            {
+              "id": "7",
+              "name": "Kurudere",
+              "oldName": "Mousoulita"
+            },
+            {
+              "id": "8",
+              "name": "Mormenekşe",
+              "oldName": "Limnia"
+            },
+            {
+              "id": "9",
+              "name": "Mutluyaka",
+              "oldName": "Stylloi"
+            },
+            {
+              "id": "10",
+              "name": "Pirhan",
+              "oldName": "Pyrga"
+            },
+            {
+              "id": "11",
+              "name": "Şehitler",
+              "oldName": "Aloda"
+            },
+            {
+              "id": "12",
+              "name": "Yeniboğaziçi",
+              "oldName": "Agios Sergios"
+            },
+            {
+              "id": "13",
+              "name": "Yıldırım",
+              "oldName": "Milia"
+            }
+          ]
+        },
+        {
+          "id": "1",
+          "name": "Geçitkale",
+          "oldName": "Dimos Lefkonoikou",
+          "yerlesimler": [
+            {
+              "id": "0",
+              "name": "Arıdamı",
+              "oldName": "Artemi"
+            },
+            {
+              "id": "1",
+              "name": "Çamlıca",
+              "oldName": "Goufes"
+            },
+            {
+              "id": "2",
+              "name": "Çınarlı",
+              "oldName": "Platani"
+            },
+            {
+              "id": "3",
+              "name": "Ergenekon",
+              "oldName": "Agios Chariton"
+            },
+            {
+              "id": "4",
+              "name": "Geçitkale",
+              "oldName": "Dimos Lefkonoikou"
+            },
+            {
+              "id": "5",
+              "name": "Gönendere",
+              "oldName": "Knodara"
+            },
+            {
+              "id": "6",
+              "name": "Görneç",
+              "oldName": "Kornokipos"
+            },
+            {
+              "id": "7",
+              "name": "Mallıdağ",
+              "oldName": "Melounta"
+            },
+            {
+              "id": "8",
+              "name": "Nergisli",
+              "oldName": "Genagra"
+            },
+            {
+              "id": "9",
+              "name": "Pınarlı",
+              "oldName": "Vitsada"
+            },
+            {
+              "id": "10",
+              "name": "Serdarlı",
+              "oldName": "Kiados/Tziaos"
+            },
+            {
+              "id": "11",
+              "name": "Sütlüce",
+              "oldName": "Psyllatos"
+            },
+            {
+              "id": "12",
+              "name": "Tirmen",
+              "oldName": "Trypimeni"
+            },
+            {
+              "id": "13",
+              "name": "Tatlısu",
+              "oldName": "Dimos Akanthou"
+            },
+            {
+              "id": "14",
+              "name": "Ulukışla",
+              "oldName": "Marathovounos"
+            },
+            {
+              "id": "15",
+              "name": "Yamaçköy",
+              "oldName": "Agios Nikolaos"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Akdoğan",
+          "oldName": "Dimos Lysis",
+          "yerlesimler": [
+            {
+              "id": "0",
+              "name": "Akdoğan",
+              "oldName": "Dimos Lysis"
+            },
+            {
+              "id": "1",
+              "name": "Beyarmudu",
+              "oldName": "Pergamos"
+            },
+            {
+              "id": "2",
+              "name": "Çayönü",
+              "oldName": "Kalopsida"
+            },
+            {
+              "id": "3",
+              "name": "Düzce",
+              "oldName": "Achna"
+            },
+            {
+              "id": "4",
+              "name": "İncirli",
+              "oldName": "Makrasyka"
+            },
+            {
+              "id": "5",
+              "name": "İnönü",
+              "oldName": "Sinta"
+            },
+            {
+              "id": "6",
+              "name": "Köprü",
+              "oldName": "Kouklia"
+            },
+            {
+              "id": "7",
+              "name": "Paşaköy",
+              "oldName": "Askeia / Asseia"
+            },
+            {
+              "id": "8",
+              "name": "Pile",
+              "oldName": "Pyla"
+            },
+            {
+              "id": "9",
+              "name": "Turunçlu",
+              "oldName": "Strongylos"
+            },
+            {
+              "id": "10",
+              "name": "Türkmenköy",
+              "oldName": "Kontea"
+            },
+            {
+              "id": "11",
+              "name": "Vadili",
+              "oldName": "Vatili"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "İskele",
+      "oldName": "Trikomo",
+      "bucaklar": [
+        {
+          "id": "0",
+          "name": "İskele",
+          "oldName": "Trikomo",
+          "yerlesimler": [
+            {
+              "id": "0",
+              "name": "Ağıllar",
+              "oldName": "Perivolia Trikomou"
+            },
+            {
+              "id": "1",
+              "name": "Altınova",
+              "oldName": "Agios Iakovos"
+            },
+            {
+              "id": "2",
+              "name": "Ardahan",
+              "oldName": "Ardana"
+            },
+            {
+              "id": "3",
+              "name": "Aygün",
+              "oldName": "Ag Georgios"
+            },
+            {
+              "id": "4",
+              "name": "Boğaziçi",
+              "oldName": "Lapathos"
+            },
+            {
+              "id": "5",
+              "name": "Ergazi",
+              "oldName": "Ovgoros"
+            },
+            {
+              "id": "6",
+              "name": "İskele",
+              "oldName": "Trikomo"
+            },
+            {
+              "id": "7",
+              "name": "Kalecik",
+              "oldName": "Gastria"
+            },
+            {
+              "id": "8",
+              "name": "Kaplıca",
+              "oldName": "Davlos"
+            },
+            {
+              "id": "9",
+              "name": "Kurtuluş",
+              "oldName": "Avgolida"
+            },
+            {
+              "id": "10",
+              "name": "Kuzucuk",
+              "oldName": "Arnadi"
+            },
+            {
+              "id": "11",
+              "name": "Mersinlik",
+              "oldName": "Flamoudi"
+            },
+            {
+              "id": "12",
+              "name": "Ötüken",
+              "oldName": "Spathariko"
+            },
+            {
+              "id": "13",
+              "name": "Sınırüstü",
+              "oldName": "Sygkrasi"
+            },
+            {
+              "id": "14",
+              "name": "Topcuköy",
+              "oldName": "Ag Andronikos Trikom"
+            },
+            {
+              "id": "15",
+              "name": "Turnalar",
+              "oldName": "Gerani"
+            },
+            {
+              "id": "16",
+              "name": "Yarköy",
+              "oldName": "Agios Ilias"
+            }
+          ]
+        },
+        {
+          "id": "1",
+          "name": "Mehmetçik",
+          "oldName": "Galateia",
+          "yerlesimler": [
+            {
+              "id": "0",
+              "name": "Bafra",
+              "oldName": "Vokolida"
+            },
+            {
+              "id": "1",
+              "name": "Balalan",
+              "oldName": "Platanissos"
+            },
+            {
+              "id": "2",
+              "name": "Büyükkonuk",
+              "oldName": "Komi"
+            },
+            {
+              "id": "3",
+              "name": "Çayırova",
+              "oldName": "Agios Theodoros"
+            },
+            {
+              "id": "4",
+              "name": "Kilitkaya",
+              "oldName": "Krideia"
+            },
+            {
+              "id": "5",
+              "name": "Kumyalı",
+              "oldName": "Koma Tou Gialou"
+            },
+            {
+              "id": "6",
+              "name": "Mehmetçik",
+              "oldName": "Galateia"
+            },
+            {
+              "id": "7",
+              "name": "Pamuklu",
+              "oldName": "Tavrou"
+            },
+            {
+              "id": "8",
+              "name": "Sazlıköy",
+              "oldName": "Livadia"
+            },
+            {
+              "id": "9",
+              "name": "Tuzluca",
+              "oldName": "Patriki"
+            },
+            {
+              "id": "10",
+              "name": "Yedikonuk",
+              "oldName": "Eptakomi"
+            },
+            {
+              "id": "11",
+              "name": "Zeybekköy",
+              "oldName": "Agios Efstathios"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Yenierenköy",
+          "oldName": "Aigialousa",
+          "yerlesimler": [
+            {
+              "id": "0",
+              "name": "Adaçay",
+              "oldName": "Melanarga"
+            },
+            {
+              "id": "1",
+              "name": "Avtepe",
+              "oldName": "Agios Symeon"
+            },
+            {
+              "id": "2",
+              "name": "Boltaşlı",
+              "oldName": "Lythragkomi"
+            },
+            {
+              "id": "3",
+              "name": "Derince",
+              "oldName": "Vothylakas"
+            },
+            {
+              "id": "4",
+              "name": "Dipkarpaz",
+              "oldName": "Rizokarpaso"
+            },
+            {
+              "id": "5",
+              "name": "Esenköy",
+              "oldName": "Koilanemos"
+            },
+            {
+              "id": "6",
+              "name": "Gelincik",
+              "oldName": "Vasili"
+            },
+            {
+              "id": "7",
+              "name": "Kaleburnu",
+              "oldName": "Galinoporni"
+            },
+            {
+              "id": "8",
+              "name": "Kuruova",
+              "oldName": "Koroveia"
+            },
+            {
+              "id": "9",
+              "name": "Sipahi",
+              "oldName": "Agia Triada"
+            },
+            {
+              "id": "10",
+              "name": "Taşlıca",
+              "oldName": "Neta"
+            },
+            {
+              "id": "11",
+              "name": "Yenierenköy",
+              "oldName": "Aigialousa"
+            },
+            {
+              "id": "12",
+              "name": "Yeşilköy",
+              "oldName": "Ag Andronikos Karpas"
+            },
+            {
+              "id": "13",
+              "name": "Ziyamet",
+              "oldName": "Leonarisso"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Güzelyurt",
+      "oldName": "Morfou",
+      "bucaklar": [
+        {
+          "id": "0",
+          "name": "Güzelyurt",
+          "oldName": "Morfou",
+          "yerlesimler": [
+            {
+              "id": "0",
+              "name": "Akçay",
+              "oldName": "Argaki"
+            },
+            {
+              "id": "1",
+              "name": "Aydınköy",
+              "oldName": "Prastio"
+            },
+            {
+              "id": "2",
+              "name": "Gayretköy",
+              "oldName": "Avlona"
+            },
+            {
+              "id": "3",
+              "name": "Güneşköy",
+              "oldName": "Nikitas"
+            },
+            {
+              "id": "4",
+              "name": "Güzelyurt",
+              "oldName": "Morfou"
+            },
+            {
+              "id": "5",
+              "name": "Kalkanlı",
+              "oldName": "Kalo Chorio Kapouti"
+            },
+            {
+              "id": "6",
+              "name": "Mevlevi",
+              "oldName": "Kyra"
+            },
+            {
+              "id": "7",
+              "name": "Serhatköy",
+              "oldName": "Fyllia"
+            },
+            {
+              "id": "8",
+              "name": "Şahinler",
+              "oldName": "Masari"
+            },
+            {
+              "id": "9",
+              "name": "Yayla",
+              "oldName": "Syrianochori"
+            },
+            {
+              "id": "10",
+              "name": "Yuvacık",
+              "oldName": "Chrysiliou"
+            },
+            {
+              "id": "11",
+              "name": "Zümrütköy",
+              "oldName": "Katokopia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Lefke",
+      "oldName": "Lefka",
+      "bucaklar": [
+        {
+          "id": "0",
+          "name": "Lefke",
+          "oldName": "Lefka",
+          "yerlesimler": [
+            {
+              "id": "0",
+              "name": "Bademliköy",
+              "oldName": "Loutros"
+            },
+            {
+              "id": "1",
+              "name": "Bağlıköy",
+              "oldName": "Ampelikou"
+            },
+            {
+              "id": "2",
+              "name": "Cengizköy",
+              "oldName": "Peristeronari"
+            },
+            {
+              "id": "3",
+              "name": "Çamlıköy",
+              "oldName": "Kalo Chorio Soleas"
+            },
+            {
+              "id": "4",
+              "name": "Doğancı",
+              "oldName": "Elia"
+            },
+            {
+              "id": "5",
+              "name": "Erenköy",
+              "oldName": "Kokkina"
+            },
+            {
+              "id": "6",
+              "name": "Gaziveren",
+              "oldName": "Kazivera"
+            },
+            {
+              "id": "7",
+              "name": "Günebakan",
+              "oldName": "Ammadies"
+            },
+            {
+              "id": "8",
+              "name": "Kurutepe",
+              "oldName": "Xerovounos"
+            },
+            {
+              "id": "9",
+              "name": "Lefke",
+              "oldName": "Lefka"
+            },
+            {
+              "id": "10",
+              "name": "Madenliköy",
+              "oldName": "Agios Georgios Soleas"
+            },
+            {
+              "id": "11",
+              "name": "Ömerli",
+              "oldName": "Galini"
+            },
+            {
+              "id": "112",
+              "name": "Süleymaniye",
+              "oldName": "Agios Ioannis Selemani"
+            },
+            {
+              "id": "13",
+              "name": "Şirinköy",
+              "oldName": "Variseia"
+            },
+            {
+              "id": "14",
+              "name": "Taşköy",
+              "oldName": "Petra"
+            },
+            {
+              "id": "15",
+              "name": "Taşpınar",
+              "oldName": "Angolemi"
+            },
+            {
+              "id": "16",
+              "name": "Yeşilırmak",
+              "oldName": "Xerovounos"
+            },
+            {
+              "id": "17",
+              "name": "Yeşilyurt",
+              "oldName": "Pentageia"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
